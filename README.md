@@ -1,5 +1,6 @@
 # CODSOFT
-Hello Eveyone
+Hello Everyone
+
 This repository showcase my work on projects that were assigned to me during my Internship under the domain 'Data Science' by CodSoft. I had a great experience during this internship. I worked on different projects whose description is given below:
 
 TASK-1 TITANIC SURVIVAL PREDICTION :
